@@ -4,15 +4,21 @@ def enrollment_stats(university):
     return all_students, all_fees
 
 def mean(my_list):
-    return sum(my_list) / len(my_list)
+    if my_list:
+     return sum(my_list) / len(my_list)
+    else:
+        return 0
 
 def median(my_list):
-    my_list.sort()
-    length = len(my_list)
-    if length % 2 == 0:
+    if my_list:
+      my_list.sort()
+      length = len(my_list)
+      if length % 2 == 0:
         return (my_list[length // 2] + my_list[(length // 2) - 1])/2
-    else:
+      else:
         return my_list[length // 2]
+    else:
+     return 0
 
 universities = [
     ['California Institute of Technology', 2175, 37704],
