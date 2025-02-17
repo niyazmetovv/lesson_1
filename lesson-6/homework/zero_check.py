@@ -9,4 +9,7 @@ def check(func):
 @check
 def div(a, b):
    return a / b
-print(div(1, 0))
+
+a = int(input())
+b = int(input())
+print(div(a, b))

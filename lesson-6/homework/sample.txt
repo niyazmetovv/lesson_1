@@ -1,1 +1,3 @@
-has has j
+The quick brown fox jumps over the lazy dog.
+The fox is fast and clever.
+Dogs are loyal and friendly.
