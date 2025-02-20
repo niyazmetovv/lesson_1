@@ -1,0 +1,2 @@
+1001, John Dae, Soft, 3000
+200, doe, AI, 2000
