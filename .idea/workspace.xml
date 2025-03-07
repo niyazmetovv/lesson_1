@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaabf7fe-85ff-40e8-b081-14a53ca2003c" name="Changes" comment="lesson 13 is done">
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/birds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/bright_red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/horizontal_flip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/masked_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/noisy_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/images/vertical_flip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-14/homework/task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-3/homework/lesson3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-3/homework/lesson3.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;niyazmetovv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/niyazmetovv/lesson_1&quot;,
+    &quot;accountId&quot;: &quot;7f4d48db-2b1c-4d42-bec5-5fb8c17f7f35&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2t1nFA5yD7bbTbPrY4vqM0kqwdJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.JSON_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_application.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.farm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.records_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.to_do.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zero_check.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonHomeworks/lesson_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.data.views&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonHomeworks\lesson_1\lesson-11\homework" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="records_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lesson_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-7/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-7/homework/records_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.records_manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaabf7fe-85ff-40e8-b081-14a53ca2003c" name="Changes" comment="" />
+      <created>1739528341316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739528341316</updated>
+      <workItem from="1739528342473" duration="6253000" />
+      <workItem from="1739539903978" duration="4687000" />
+      <workItem from="1739551992764" duration="2053000" />
+      <workItem from="1739640069667" duration="7214000" />
+      <workItem from="1739810597846" duration="8491000" />
+      <workItem from="1739954828427" duration="1000" />
+      <workItem from="1739990724016" duration="2701000" />
+      <workItem from="1740031508973" duration="275000" />
+      <workItem from="1740039745085" duration="718000" />
+      <workItem from="1740041469555" duration="732000" />
+      <workItem from="1740055529635" duration="906000" />
+      <workItem from="1740057119472" duration="5534000" />
+      <workItem from="1740068335091" duration="2364000" />
+      <workItem from="1740072730113" duration="475000" />
+      <workItem from="1740075637483" duration="2000" />
+      <workItem from="1740227384070" duration="2136000" />
+      <workItem from="1740239103508" duration="2444000" />
+      <workItem from="1740318704500" duration="2796000" />
+      <workItem from="1740482508928" duration="9253000" />
+      <workItem from="1740675087646" duration="2037000" />
+      <workItem from="1740849842870" duration="440000" />
+      <workItem from="1740918093797" duration="6462000" />
+      <workItem from="1741095549741" duration="130000" />
+      <workItem from="1741351896562" duration="2522000" />
+      <workItem from="1741374909685" duration="4841000" />
+    </task>
+    <task id="LOCAL-00001" summary="homework 4 is done">
+      <option name="closed" value="true" />
+      <created>1739554052028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739554052028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 5 is done">
+      <option name="closed" value="true" />
+      <created>1739646845192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739646845192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 5 is done">
+      <option name="closed" value="true" />
+      <created>1739647192758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739647192758</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 6 is done">
+      <option name="closed" value="true" />
+      <created>1739819279849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739819279849</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 6 is done">
+      <option name="closed" value="true" />
+      <created>1739819389792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739819389792</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 7 is done">
+      <option name="closed" value="true" />
+      <created>1740070705909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740070705909</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 8 is done">
+      <option name="closed" value="true" />
+      <created>1740321453607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740321453607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson 9 is done">
+      <option name="closed" value="true" />
+      <created>1740494133298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740494133298</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson 10 is done">
+      <option name="closed" value="true" />
+      <created>1740677100729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740677100729</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson 11 is done">
+      <option name="closed" value="true" />
+      <created>1740925252767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740925252767</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lesson 12 is done">
+      <option name="closed" value="true" />
+      <created>1741095666850</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741095666850</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lesson 13 is done">
+      <option name="closed" value="true" />
+      <created>1741354386551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741354386551</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.db" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 4 is done" />
+    <MESSAGE value="lesson 5 is done" />
+    <MESSAGE value="lesson 6 is done" />
+    <MESSAGE value="lesson 7 is done" />
+    <MESSAGE value="lesson 8 is done" />
+    <MESSAGE value="lesson 9 is done" />
+    <MESSAGE value="lesson 10 is done" />
+    <MESSAGE value="lesson 11 is done" />
+    <MESSAGE value="lesson 12 is done" />
+    <MESSAGE value="lesson 13 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 13 is done" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lesson_1$employee_manager.coverage" NAME="employee_manager Coverage Results" MODIFIED="1739817559921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-6/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$farm.coverage" NAME="farm Coverage Results" MODIFIED="1740228283753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-8/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$to_do.coverage" NAME="to_do Coverage Results" MODIFIED="1740070563698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-7/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$JSON_handling.coverage" NAME="JSON_handling Coverage Results" MODIFIED="1740494059255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-9/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$prime.coverage" NAME="prime Coverage Results" MODIFIED="1739646655858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-5/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$vector.coverage" NAME="vector Coverage Results" MODIFIED="1739993411312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-7/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$csv_management.coverage" NAME="csv_management Coverage Results" MODIFIED="1740487419468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-9/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1740485035227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-9/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$records_manager.coverage" NAME="records_manager Coverage Results" MODIFIED="1741352057774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-7/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$first_question.coverage" NAME="first_question Coverage Results" MODIFIED="1739641306087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-5/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$factors.coverage" NAME="factors Coverage Results" MODIFIED="1739643359195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-5/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$practice.coverage" NAME="practice Coverage Results" MODIFIED="1740850208157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-11" />
+    <SUITE FILE_PATH="coverage/lesson_1$task.coverage" NAME="task Coverage Results" MODIFIED="1741354373243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-13/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$zero_check.coverage" NAME="zero_check Coverage Results" MODIFIED="1739819364417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-6/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$first.coverage" NAME="first Coverage Results" MODIFIED="1740923430347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-11/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$invest.coverage" NAME="invest Coverage Results" MODIFIED="1739643004810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-5/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$word_count.coverage" NAME="word_count Coverage Results" MODIFIED="1739819352713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-6/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$bank_application.coverage" NAME="bank_application Coverage Results" MODIFIED="1740321236371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-8/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$weather.coverage" NAME="weather Coverage Results" MODIFIED="1740676283021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-10/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$second.coverage" NAME="second Coverage Results" MODIFIED="1740925219243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-11/homework" />
+    <SUITE FILE_PATH="coverage/lesson_1$stats.coverage" NAME="stats Coverage Results" MODIFIED="1739645307887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-5/homework" />
+  </component>
+</project>
