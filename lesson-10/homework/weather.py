@@ -6,6 +6,8 @@ API_KEY = "cb77f2e7599c26ba5a7057dbf4009af0"
 CITY = input("Enter City: ")
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
+
+
 #Fixed
 params = {
     "q": CITY,
