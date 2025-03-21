@@ -19,6 +19,8 @@ def create_table(cursor):
     cursor.execute(create)
 
 
+
+
 #Insert
 def insert_data(cursor):
     data = [
