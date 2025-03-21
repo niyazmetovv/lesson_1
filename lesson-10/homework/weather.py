@@ -18,6 +18,8 @@ response = requests.get(BASE_URL, params=params)
 data = response.json()
 # print(json.dumps(data, indent=4))
 
+
+
 #Output
 if response.status_code == 200:
     temp = data["main"]["temp"]
